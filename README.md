@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+11/29/2018
 
 ### Student Name:  
-(First and Last Name)
+Arianna Wittig
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this project we created 2 versions of a recipe display application.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://akw17d.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. We used a script tag to connect both the HTML files to the JS files
+2. Hover display function used when hovering over the ingredients
+3. h3 function was used many times for organization and background color
 
